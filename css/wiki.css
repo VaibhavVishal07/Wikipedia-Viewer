@@ -1,0 +1,74 @@
+html{
+
+   height:100%;
+
+}
+
+body{
+
+    height:100%;
+    background-attachment: fixed;
+    background-color:#162234;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a{
+
+   text-decoration: none;
+
+}
+
+.header{
+
+    font-family:Lobster;
+    color:#FFA500;
+    position:relative;
+    top:5%;
+}
+
+
+
+.message{
+
+   position:relative;
+   top:10%;
+   color:white;
+
+}
+
+.search-space{
+
+    position:relative;
+    top:15%;
+    margin-top:30px;
+    margin-bottom: 50px;
+}
+
+#search{
+
+   border-radius:10px;
+   border:5px solid orange;
+   background-color:#162234;
+   color:white;
+
+}
+
+#random-link{
+
+   margin-left: 10px;
+
+}
+
+#random{
+
+   border-radius: 10px;
+   border:5px solid orange;
+   background-color: #162234;
+   color:white;
+}
+
+#container{
+
+  
+}
